@@ -1,8 +1,7 @@
 import random
 
 
-words = ['kangaroo', 'platypus', 'koala', 'wombat', 'echidna', 'dingo', 'tasmanian devil', 'wallaby']
-
+words = ['kangaroo', 'rainbow', 'sky', 'engineer', 'dinosaur', 'instagram', 'summer', 'ice cream']
 
 word = random.choice(words)
 guessed = "_" * len(word)
